@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blueracer.aternos.host",
-    "port": 51734,
+    "ip": "NSSMP-zOMQ.aternos.me",
+    "port": 57222,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
